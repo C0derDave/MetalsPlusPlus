@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "metalsplusplus:superfurnace_on" },
+        "facing=south": { "model": "metalsplusplus:superfurnace_on", "y": 180 },
+        "facing=west":  { "model": "metalsplusplus:superfurnace_on", "y": 270 },
+        "facing=east":  { "model": "metalsplusplus:superfurnace_on", "y": 90 }
+    }
+}

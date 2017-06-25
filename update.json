@@ -1,0 +1,10 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/metal",
+  "1.11.2": {
+    "1.1": "Added uranium furnace. Made code nice to read."
+  },
+  "promos": {
+    "1.11.2-latest": "1.1",
+    "1.11.2-recommended": "1.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "metalsplusplus:blocks/uranium_tnt_bottom",
+    "top": "metalsplusplus:blocks/uranium_tnt_top",
+    "side": "metalsplusplus:blocks/uranium_tnt_side"
+  }
+}

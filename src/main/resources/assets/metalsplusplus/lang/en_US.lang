@@ -1,0 +1,68 @@
+tile.copper_ore.name=Copper Ore
+tile.copper_block.name=Copper Block
+
+tile.tin_block.name=Tin Block
+tile.tin_ore.name=Tin Ore
+
+tile.bronze_block.name=Bronze Block
+
+tile.titanium_ore.name=Titanium Ore
+tile.titanium_block.name=Titanium Block
+
+tile.uranium_block.name=Uranium Block
+tile.uranium_ore.name=Uranium Ore
+
+tile.lead_ore.name=Lead Ore
+tile.lead_block.name=Lead Block
+
+tile.aluminium_block.name=Aluminium Block
+tile.aluminium_ore.name=Aluminium Ore
+
+tile.uranium_furnace.name=Uranium Furnace
+
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.bronze_ingot.name=Bronze Ingot
+item.titanium_ingot.name=Titanium Ingot
+item.uranium_ingot.name=Uranium Ingot
+item.lead_ingot.name=Lead Ingot
+item.steel_ingot.name=Steel Ingot
+item.aluminium_ingot.name=Aluminium Sheet
+
+item.bronze_spade.name=Bronze Shovel
+item.bronze_axe.name=Bronze Axe
+item.bronze_pickaxe.name=Bronze Pickaxe
+item.bronze_sword.name=Bronze Sword
+
+item.titanium_spade.name=Titanium Shovel
+item.titanium_axe.name=Titanium Axe
+item.titanium_pickaxe.name=Titanium Pickaxe
+item.titanium_sword.name=Titanium Sword
+
+item.bronze_helmet.name=Bronze Helmet
+item.bronze_chestplate.name=Bronze Chestplate
+item.bronze_leggings.name=Bronze Leggings
+item.bronze_boots.name=Bronze Boots
+
+item.titanium_helmet.name=Titanium Helmet
+item.titanium_chestplate.name=Titanium Chestplate
+item.titanium_leggings.name=Titanium Leggings
+item.titanium_boots.name=Titanium Boots
+
+item.lead_helmet.name=Lead Helmet
+item.lead_chestplate.name=Lead Chestplate
+item.lead_leggings.name=Lead Leggings
+item.lead_boots.name=Lead Boots
+
+item.lead_spade.name=Lead Shovel
+item.lead_axe.name=Lead Axe
+item.lead_pickaxe.name=Lead Pickaxe
+item.lead_sword.name=Lead Sword
+
+container.uranium_furnace=Uranium Furnace
+
+achievement.metalworker=Metalworker
+achievement.metalworker.desc=Craft a Bronze Ingot
+
+achievement.uranium=Nuclear Hazard
+achievement.uranium.desc=Smelt a uranium ingot.

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "metalsplusplus:uranium_tnt" },
+    "explode=true": { "model": "metalsplusplus:uranium_tnt" }
+  }
+}

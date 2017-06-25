@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "metalsplusplus:blocks/superfurnace_top",
+        "front": "metalsplusplus:blocks/superfurnace_front_on",
+        "side": "metalsplusplus:blocks/superfurnace_top",
+		"bottom": "metalsplusplus:blocks/superfurnace_top"
+    }
+}

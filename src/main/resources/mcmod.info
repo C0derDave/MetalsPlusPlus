@@ -1,0 +1,16 @@
+[
+{
+  "modid": "metalsplusplus",
+  "name": "Metal++",
+  "description": "Adds a bunch of new metals to discover in your Minecraft world.",
+  "version": "1.1",
+  "mcversion": "1.11.2",
+  "url": "https://minecraft.curseforge.com/projects/metal",
+  "updateUrl": "",
+  "authorList": ["C0derDave"],
+  "credits": "Mojang, for making Minecraft. The Forge team, for making Forge. God, for creating metals.",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
