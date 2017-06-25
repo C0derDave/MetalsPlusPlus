@@ -158,7 +158,6 @@ public class TileEntityUranium extends TileEntity implements ITickable {
 
 						//True if the player is in survival mode and they are wearing less than 2 pieces of lead armor.
 						flag = leadArmor < 2 && !player.isCreative() && !player.isSpectator();
-						System.out.println(flag);
 					}
 
 					//If the entity has neither of the potion effects and flag is true, give potion effects.
